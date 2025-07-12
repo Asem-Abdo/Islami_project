@@ -11,6 +11,9 @@ abstract final class AppAssetes {
   static const String ic_sebha = 'assets/images/ic_sebha.png';
   static const String ic_time = 'assets/images/ic_time.png';
   static const String ic_hadith = 'assets/images/ic_hadeth.png';
-  static const String logo = 'assets/images/Logo.png';
-  static const String backGroundHome = 'assets/images/Background.png';
+  static const String logoIslami = 'assets/images/LogoIslami.png';
+  static const String backGroundQuran = 'assets/images/Background.png';
+  static const String backGroundSebha = 'assets/images/BackgroundSebha.png';
+  static const String sebhaBody = "assets/images/SebhaBody.png";
+  static const String sebhaSmallBody = "assets/images/sebhaSmallBody.png";
 }

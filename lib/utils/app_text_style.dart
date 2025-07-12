@@ -16,4 +16,10 @@ abstract final class AppTextStyle {
     fontSize: 20,
     fontWeight: FontWeight.w700,
   );
+
+  static const arabi36Bold = TextStyle(
+    color: Colors.white,
+    fontSize: 36,
+    fontWeight: FontWeight.bold,
+  );
 }
