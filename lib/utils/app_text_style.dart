@@ -22,4 +22,20 @@ abstract final class AppTextStyle {
     fontSize: 36,
     fontWeight: FontWeight.bold,
   );
+
+  static const wight16Bold = TextStyle(
+    color: Color(0xffFEFFE8),
+    fontSize: 16,
+    fontWeight: FontWeight.w700,
+  );
+  static const wight20Bold = TextStyle(
+    color: Color(0xffFFFFFF),
+    fontSize: 20,
+    fontWeight: FontWeight.w700,
+  );
+  static const wight14Bold = TextStyle(
+    color: Color(0xffFFFFFF),
+    fontSize: 14,
+    fontWeight: FontWeight.w700,
+  );
 }

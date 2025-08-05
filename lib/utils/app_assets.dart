@@ -16,4 +16,9 @@ abstract final class AppAssetes {
   static const String backGroundSebha = 'assets/images/BackgroundSebha.png';
   static const String sebhaBody = "assets/images/SebhaBody.png";
   static const String sebhaSmallBody = "assets/images/sebhaSmallBody.png";
+  static const String coverOfNumber = "assets/images/cover_number.png";
+  static const String bottomDecoration =
+      "assets/images/img_bottom_decoration.png";
+  static const String leftCorner = "assets/images/img_left_corner.png";
+  static const String rightCorner = "assets/images/img_right_corner.png";
 }
